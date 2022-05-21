@@ -1,0 +1,39 @@
+.navbar {
+  background: #2b2c2c !important;
+  padding: 25px 0;
+}
+
+.navbar .navbar-collapse {
+  flex-grow: unset;
+}
+
+.navbar .nav-item {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 20px;
+}
+
+.navbar .nav-item .nav-link,
+.navbar .nav-item .nav-link > a {
+  color: #7d8792;
+  text-decoration: none;
+}
+
+.navbar .nav-item .nav-link:hover {
+  color: #ffffff;
+}
+
+.navbar .navbar-nav .dropdown .dropdown-menu a {
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+a {
+  color: rgba(255,255,255,.55);
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+
+}

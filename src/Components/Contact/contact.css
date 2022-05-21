@@ -1,0 +1,47 @@
+.contact {
+    padding: 0 0 130px 0;
+    background: #2d2e2e;
+}
+
+.contact h2 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #e0a80d;
+    margin-bottom: 60px;
+}
+
+.contact .form-control {
+    padding: 15px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    background: #fcf2f2;
+    border: 0;
+    border-radius: 10px;
+}
+
+.contact button.btn {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    background: #e0a80d;
+    color: #ffffff;
+    width: 100%;
+}
+.contact .info {
+    padding-left: 40px;
+}
+
+.contact .info span {
+    font-size: 20px;
+    color: #e0a80d;
+}
+
+.contact .info p {
+    font-size: 14px;
+    margin: 10px 0 20px 0;
+    color: #eee;
+}
+
+button, input, optgroup, select, textarea{
+  font-family: muli, sans-serif;
+}

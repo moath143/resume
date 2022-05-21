@@ -1,0 +1,31 @@
+.some-facts {
+    padding: 130px 0;
+    color: #ffffff;
+    background: url('../../img/bg/some-facts-bg.png') center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.some-facts .items span {
+    font-size: 30px;
+    color: #e0a80d;
+    margin: 0;
+    padding: 0;
+}
+
+.some-facts .items h3 {
+    font-size: 40px;
+    font-weight: 800;
+    color: #ffffff !important;
+    margin: 0;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.some-facts .items h4 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}

@@ -50,21 +50,21 @@ const Contact = () => {
             <div className="info">
               <span className="fa-solid fa-location-dot"></span>
               <p>
-                2651 Main Street, Suit 124
+                Palestine, Gaza
                 <br />
-                Seattle, WA, 98101
+                North Gaza
               </p>
 
               <span className="fa-solid fa-mobile-screen"></span>
               <p>
-                0123456789
+                +972597729262
                 <br />
-                0345627891
+                +970597729262
               </p>
 
               <span className="fa-solid fa-at"></span>
               <p>
-                hello@thetheme.io <br /> inf0@brex-theme.io
+                moaalnajjar@gmail.com <br /> 
               </p>
             </div>
           </Col>
